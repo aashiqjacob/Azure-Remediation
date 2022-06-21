@@ -1,3 +1,4 @@
+# Consists the set of rules to be applied to the NSGs.
 locals { 
 nsgrules = {
    
